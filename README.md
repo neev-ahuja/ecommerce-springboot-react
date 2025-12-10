@@ -86,7 +86,7 @@ Start the development server:
 ```bash
 npm run dev
 ```
-The frontend will be accessible at `http://localhost:5173` (default Vite port).
+The frontend will be accessible at `http://localhost:5173` (default port).
 
 ## 📂 Project Structure
 
