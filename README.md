@@ -30,6 +30,12 @@ A full-stack e-commerce platform built with modern technologies, featuring a rob
 *   **Address Management**: Save and manage multiple shipping addresses.
 *   **Reviews**: detailed product reviews.
 
+## Demo
+
+https://github.com/user-attachments/assets/2e7e552a-00d3-45c6-8cac-96d4550ea26e
+
+
+
 ## 🛠️ Prerequisites
 
 Ensure you have the following installed:
